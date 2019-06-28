@@ -40,3 +40,4 @@
 [LOG] Manager::finishLoadBank                  : Bank with guid {732a5b45-efcb-064c-36dc-5c0ac9a66c8c} has already been loaded
 [LOG] Manager::readBank                        : fileversion = 119, compatVersion = 119 (oldest = 44, newest = 119)
 [LOG] Manager::readBank                        : fileversion = 119, compatVersion = 119 (oldest = 44, newest = 119)
+[LOG] Manager::readBank                        : fileversion = 119, compatVersion = 119 (oldest = 44, newest = 119)
